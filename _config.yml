@@ -1,11 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Cleveland RailsBridge
+email: info@clevelandrailsbridge.org
+description: "Cleveland RailsBridge is an organization that works to increase diversity in tech by putting on a variety of awesome free events that help people get introduced to programming."
+url: "http://clevelandrailsbridge.org"
+base_url: /
+twitter_username: clevelandrailsbridge
+ga_account: UA-52875134-1
+
+# Collections
+collections:
+ curriculum:
+   output: true
 
 # Build settings
 markdown: kramdown
