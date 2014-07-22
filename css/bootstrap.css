@@ -6180,6 +6180,7 @@ button.close {
 }
 .btn {
   font-weight: 300;
+  white-space: normal;
 }
 .btn-default:hover {
   background-color: #485563;
