@@ -1,6 +1,7 @@
 ---
 layout: default
-name: Survey
+title: Survey
+weight: 4
 ---
 
 ### Show up prepared

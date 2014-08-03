@@ -1,6 +1,7 @@
 ---
 layout: default
-name: Next Steps
+title: Next Steps
+weight: 3
 ---
 
 ### Show up prepared

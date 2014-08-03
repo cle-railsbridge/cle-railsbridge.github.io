@@ -1,6 +1,7 @@
 ---
 layout: default
-name: Saturday
+title: Saturday
+weight: 2
 ---
 
 ### Show up prepared

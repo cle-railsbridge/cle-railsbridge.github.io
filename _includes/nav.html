@@ -11,11 +11,14 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Curriculum <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            {% for page in site.curriculum %}
+            <li class="divider"></li>
+            {% assign sorted_curriculum = site.curriculum | sort: 'weight' %}
+            {% for page in sorted_curriculum %}
             <li>
-              <a href="{{ page.url }}">{{ page.name }}</a>
+              <a href="{{ page.url }}">{{ page.title }}</a>
             </li>
             {% endfor %}
+            <li class="divider"></li>
           </ul>
         </li>
         <li>
