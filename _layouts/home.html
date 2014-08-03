@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-<div class="col-lg-12">
-    <div class="jumbotron">
-      <h1>{{ page.jumbo-heading }}</h1>
-      <p>{{ page.jumbo-content }}</p>
-      <a class="btn btn-primary btn-lg" href="{{ page.jumbo-url }}">{{ page.jumbo-link-text }}</a>
+<div class="container">
+  <div class="jumbotron">
+    <h1>{{ page.jumbo-heading }}</h1>
+    <p>{{ page.jumbo-content }}</p>
+    <a class="btn btn-primary btn-lg" href="{{ page.jumbo-url }}">{{ page.jumbo-link-text }}</a>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      {{ content }}
     </div>
-
-    {{ content }}
-
+  </div>
 </div>
 
