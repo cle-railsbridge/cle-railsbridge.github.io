@@ -1,12 +1,12 @@
 <nav class="navbar navbar-inverse" role="navigation">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a href="../" class="navbar-brand">{{ site.title }}</a>
+      <a href="{{ site.base_url }}" class="navbar-brand">{{ site.title }}</a>
     </div>
     <div class="navbar-collapse collapse navbar-inverse-collapse" id="navbar-main">
       <ul class="nav navbar-nav">
         <li>
-          <a href="/workshop-info">Workshop Info</a>
+          <a href="{{ site.base_url }}/workshop-info">Workshop Info</a>
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Curriculum <span class="caret"></span></a>
@@ -15,20 +15,20 @@
             {% assign sorted_curriculum = site.curriculum | sort: 'weight' %}
             {% for page in sorted_curriculum %}
             <li>
-              <a href="{{ page.url }}">{{ page.title }}</a>
+              <a href="{{ site.base_url }}{{ page.url }}">{{ page.title }}</a>
             </li>
             {% endfor %}
             <li class="divider"></li>
           </ul>
         </li>
         <li>
-          <a href="/volunteer">Volunteer</a>
+          <a href="{{ site.base_url }}/volunteer">Volunteer</a>
         </li>
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="/sponsors">Sponsors</a>
+          <a href="{{ site.base_url }}/sponsors">Sponsors</a>
         </li>
       </ul>
 
