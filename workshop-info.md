@@ -10,6 +10,8 @@ permalink: /workshop-info/
 
 ---
 
+<a href="http://bridgetroll.org/events/105" class="btn btn-success">Sign up for the workshop here!</a>
+
 Pizza will be served Friday night, and lunch on Saturday. We will go to a nearby bar for an after-workshop drink.
 
 **We will be on the LeanDog Boat ( [Map!](https://www.google.com/maps/preview?q=1151+North+Marginal+Road,+Cleveland,+OH&hl=en&ll=41.510687,-81.691695&spn=0.00079,0.001537&sll=41.515813,-81.680093&sspn=0.019023,0.049181&t=h&hnear=1151+N+Marginal+Rd,+Cleveland,+Ohio+44114&z=2://www.google.com/maps/preview?q=1151+North+Marginal+Road,+Cleveland,+OH&hl=en&ll=41.510687,-81.691695&spn=0.00079,0.001537&sll=41.515813,-81.680093&sspn=0.019023,0.049181&t=h&hnear=1151+N+Marginal+Rd,+Cleveland,+Ohio+44114&z=20) ) both days**
