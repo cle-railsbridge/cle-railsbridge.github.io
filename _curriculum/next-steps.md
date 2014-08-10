@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Next Steps
 weight: 3
 ---
