@@ -19,3 +19,7 @@ On Saturday during the workshop, you will be exposed to:
 6. CRUD with scaffolding
 
 7. Creating a small web survey application
+
+## Opening Presentation:
+
+<http://pzula.github.io/cleveland-railsbridge-presentation>
