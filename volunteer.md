@@ -24,7 +24,7 @@ As an Install Fest volunteer you will:
 
 2. Help troubleshoot as attendees set up their laptops for the next day's workshop.
 
-### Workshop - Saturday, September 6th, 8:30am-5pm
+### Workshop - Saturday, September 12th, 8:30am-5pm
 
 **8:30am-5pm**: workshop (beakfast & lunch provided).
 
