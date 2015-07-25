@@ -4,7 +4,7 @@ title: Volunteer
 permalink: /volunteer/
 ---
 
-<a href="http://bridgetroll.org/events/105" class="btn btn-success">Sign up to be a Volunteer here!</a>
+<a href="https://www.bridgetroll.org/events/178" class="btn btn-success">Sign up to be a Volunteer here!</a>
 
 We are looking for experienced Rails developers of all genders to volunteer at the September Cleveland RailsBridge workshop. You can use the same [RSVP Form](https://www.bridgetroll.org/events/178) as students. When you RSVP, please indicate whether you are volunteering for the workshop, the InstallFest, or both!
 
