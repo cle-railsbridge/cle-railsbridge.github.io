@@ -14,7 +14,7 @@ This workshop will be in Cleveland, Ohio.
 
 You certainly can! We need people like you to assist with registration, managing the door, cleaning up, and with childcare. Just indicate what you want to help with when you RSVP.
 
-### InstallFest - Friday, September 11th, 6pm-9pm
+### InstallFest - Friday, September 11th, 7pm-9pm
 
 Software InstallFest: feel free to volunteer for any amount of time if you cannot make it to the whole event.
 
@@ -24,9 +24,9 @@ As an Install Fest volunteer you will:
 
 2. Help troubleshoot as attendees set up their laptops for the next day's workshop.
 
-### Workshop - Saturday, September 12th, 8:30am-5pm
+### Workshop - Saturday, September 12th, 9:00am-5pm
 
-**8:30am-5pm**: workshop (beakfast & lunch provided).
+**9:00am-5pm**: workshop (beakfast & lunch provided).
 
 **5pm-9pm**: after-party for volunteers & attendees, after-party location TBA
 
