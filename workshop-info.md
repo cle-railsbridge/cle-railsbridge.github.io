@@ -4,13 +4,13 @@ title: Workshop Info
 permalink: /workshop-info/
 ---
 
-### Friday, September 5th, 2014 from 7:00pm - 9:00pm
+### Friday, September 11th, 2015 from 6:00pm - 8:00pm
 
-### Saturday, September 6th, 2014 from 9:30am - 5:00pm
+### Saturday, September 12th, 2015 from 8:30am - 4:00pm
 
 ---
 
-<a href="http://bridgetroll.org/events/105" class="btn btn-success">Sign up for the workshop here!</a>
+<a href="https://www.bridgetroll.org/events/178" class="btn btn-success">Sign up for the workshop here!</a>
 
 Pizza will be served Friday night, and lunch on Saturday. We will go to a nearby bar for an after-workshop drink.
 
