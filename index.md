@@ -8,7 +8,7 @@ jumbo-link-text: "Sign up for our upcoming September 11th &amp; 12th, 2015 works
 
 Do you dream of someday writing software that helps people and improves the world?
 
-Led by an all-volunteer team of seasoned, enthusiastic Ruby and Rails developers, the workshop introduces people of all backgrounds to the concepts, tools, and techniques of Ruby and Rails development. Our audience is those with no or little programming experience.
+Led by an all-volunteer team of seasoned, enthusiastic Ruby and Rails developers, the workshop introduces people of all backgrounds to the concepts, tools, and techniques of Ruby and Rails development. Our audience is those with no or little programming experience from typically under-represented communities in technology.
 
 We welcome you to the Cleveland Ruby community. Whatever your goal is in learning to program, we hope to connect you with the tools to take the next step.
 
