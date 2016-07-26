@@ -20,9 +20,7 @@ On Saturday during the workshop, you will be exposed to:
 
 7. Creating a small web survey application
 
-<!--
-<a href="http://pzula.github.io/cleveland-railsbridge-presentation" class="btn btn-default">Opening Presentation</a>
--->
+<a href="http://cle-railsbridge.github.io/cleveland-railsbridge-presentation/#/" class="btn btn-default">Opening Presentation</a>
 
 <a href="http://docs.railsbridge.org/intro-to-rails/" class="btn btn-success">Today's Workshop!</a>
 
