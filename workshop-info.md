@@ -14,7 +14,7 @@ permalink: /workshop-info/
 
 Pizza will be served Friday night, and lunch on Saturday. We will go to a nearby bar for an after-workshop drink.
 
-**We will be at CoverMyMeds in Highland Hills ( [Map!](https://www.google.com/maps?q=22901+Millcreek+Blvd,+Highland+Hills,+Ohio,+44122) ) both days**
+**We will be at CoverMyMeds in Highland Hills ( [Map!](https://www.google.com/maps/preview?q=22901+Millcreek+Blvd,+Highland+Hills,+Ohio,+44122) ) both days**
 
 22901 Millcreek Blvd
 Highland Hills, OH 44122
