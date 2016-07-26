@@ -21,7 +21,7 @@ Highland Hills, OH 44122
 
 ## Location/Parking
 
-Parking is located right in front of the building and you can get directions here: http://bit.ly/1pxuYRe
+Parking is located right in front of the building and you can get directions here: [http://bit.ly/1pxuYRe](http://bit.ly/1pxuYRe)
 
 The CoverMyMeds office is on the second floor, turn left when you leave the elevators. There will be signs posted to help folks find there way.
 
