@@ -17,16 +17,16 @@ There are a lot of steps, and the instructions may seem like they're in a foreig
 
 You will be installing the following tools:
 
-- Ruby
-- Rails
-- Git
-- Heroku
-- Sublime Text 2 (or some editor)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rails](http://rubyonrails.org/)
+- [Git](https://git-scm.com/) or [GitHub Desktop](https://desktop.github.com/)
+- [Heroku Toolbelt](https://toolbelt.heroku.com/)
+- [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/), or other text editor
 - Various useful "ruby gems", including...
-- bundler
-- sqlite
+  - bundler
+  - sqlite
 
-You will also create an account on Heroku, an application hosting platform.
+You will also create a free account on [Heroku](https://www.heroku.com/), an application hosting platform.
 
 If you already have an account on Heroku, make sure you know your username and password.
 
