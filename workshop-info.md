@@ -4,9 +4,9 @@ title: Workshop Info
 permalink: /workshop-info/
 ---
 
-### Friday, September 9th, 2016 from 7:00pm - 9:00pm
+### Friday, September 16th, 2016 from 7:00pm - 9:00pm
 
-### Saturday, September 10th, 2016 from 9:30am - 5:00pm
+### Saturday, September 17th, 2016 from 9:30am - 5:00pm
 
 ---
 

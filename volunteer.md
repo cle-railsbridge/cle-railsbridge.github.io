@@ -14,7 +14,7 @@ This workshop will be in Highland Hills, Ohio.
 
 You certainly can! We need people like you to assist with registration, managing the door, cleaning up, and with childcare. Just indicate what you want to help with when you RSVP.
 
-### InstallFest - Friday, September 9th, 7pm-9pm
+### InstallFest - Friday, September 16th, 7pm-9pm
 
 Software InstallFest: feel free to volunteer for any amount of time if you cannot make it to the whole event.
 
@@ -24,7 +24,7 @@ As an Install Fest volunteer you will:
 
 2. Help troubleshoot as attendees set up their laptops for the next day's workshop.
 
-### Workshop - Saturday, September 10th, 9:00am-5pm
+### Workshop - Saturday, September 17th, 9:00am-5pm
 
 **9:00am-5pm**: workshop (beakfast & lunch provided).
 

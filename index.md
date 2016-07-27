@@ -3,7 +3,7 @@ layout: home
 jumbo-heading: Learn Ruby on Rails
 jumbo-content: "The Cleveland RailsBridge Workshop is a free 1.5 day guided introduction to programming in Ruby and Ruby on Rails."
 jumbo-url: "https://www.bridgetroll.org/events/178"
-jumbo-link-text: "Sign up for our upcoming September 9th &amp; 10th, 2016 workshop"
+jumbo-link-text: "Sign up for our upcoming September 16th &amp; 17th, 2016 workshop"
 ---
 
 Do you dream of someday writing software that helps people and improves the world?
