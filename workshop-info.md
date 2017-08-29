@@ -4,13 +4,13 @@ title: Workshop Info
 permalink: /workshop-info/
 ---
 
-### Friday, September 16th, 2016 from 7:00pm - 9:00pm
+### Friday, October 13th, 2017 from 7:00pm - 9:00pm
 
-### Saturday, September 17th, 2016 from 9:30am - 5:00pm
+### Saturday, October 14th, 2017 from 9:30am - 5:00pm
 
 ---
 
-<a href="https://www.bridgetroll.org/events/276" class="btn btn-success">Sign up for the workshop here!</a>
+<a href="https://www.bridgetroll.org/events/367" class="btn btn-success">Sign up for the workshop here!</a>
 
 Pizza will be served Friday night, and lunch on Saturday. We will go to a nearby bar for an after-workshop drink.
 
